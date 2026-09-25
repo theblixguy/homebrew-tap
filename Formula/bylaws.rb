@@ -1,9 +1,9 @@
 class Bylaws < Formula
   desc "Architectural linter for Swift projects using Bylaws.swift rules"
   homepage "https://github.com/theblixguy/swift-bylaws"
-  url "https://github.com/theblixguy/swift-bylaws/releases/download/v0.5.0/bylaws.artifactbundle.zip"
-  version "0.5.0"
-  sha256 "a9d5f4543577cd396fa35dd5b73a3bad0267515c3e49503476473e2c1bcca769"
+  url "https://github.com/theblixguy/swift-bylaws/releases/download/v0.6.0/bylaws.artifactbundle.zip"
+  version "0.6.0"
+  sha256 "3c59b508f565e59e59cc6b7ef6820f982cf749f7c2df25f35f7f957eee04f312"
   license "MIT"
 
   on_linux do
